@@ -1,4 +1,4 @@
-# Intro Algorithm sResearch
+# Intro Algorithms Research
 A research about some basic concepts of Algorithms
 
 
