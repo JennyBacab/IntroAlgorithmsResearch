@@ -100,14 +100,20 @@ Flowcharts employ rectangles, ovals, diamonds, and numerous other shapes to defi
 -What is a variable in computer programming? (2021). Retrieved January 31, 2021, from Launchschool.com website: https://launchschool.com/books/ruby/read/variables
 
 -TechTarget Contributor. (2017). operand. Retrieved January 31, 2021, from WhatIs.com website: https://whatis.techtarget.com/definition/operand
+
 -Kenneth Leroy Busbee, & Braunschweig, D. (2018, December 15). Constants and Variables. Retrieved January 31, 2021, from Rebus.community website: https://press.rebus.community/programmingfundamentals/chapter/constants-and-variables/
+
 -What is an Expression and What are the types of Expressions? - GeeksforGeeks. (2019, August 2). Retrieved January 31, 2021, from GeeksforGeeks website: https://www.geeksforgeeks.org/what-is-an-expression-and-what-are-the-types-of-expressions/
+
 -Arithmetic Expressions. (2021). Retrieved January 31, 2021, from Upenn.edu website: https://www.cis.upenn.edu/~matuszek/General/JavaSyntax/arithmetic-expressions.html
 
 -logical expression. (2019). Retrieved January 31, 2021, from TheFreeDictionary.com website: https://encyclopedia2.thefreedictionary.com/logical+expression
+
 -Data Structures - Algorithms Basics - Tutorialspoint. (2020). Retrieved January 31, 2021, from Tutorialspoint.com website: https://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm
+
 -References
 Gupta, S. (n.d.). Basics of Operators Tutorials & Notes | Basic Programming. HackerEarth. Retrieved January 30, 2021, from https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/tutorial/
+
 -Ren, S. (2019, October 11). Learn about Python 3 data types — numbers and strings. Medium. https://medium.com/@shawnren527/learn-about-python-3-data-types-numbers-and-strings-76c75a917c9b
 
 
