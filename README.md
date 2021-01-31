@@ -95,7 +95,7 @@ Flowcharts employ rectangles, ovals, diamonds, and numerous other shapes to defi
 
 - **Pseudocode**: The pseudocode is an informal way to do a program very close to the language we will use in the future. It is like a fake language, but in our language.
 
-##References
+## References
 
 What is a variable in computer programming? (2021). Retrieved January 31, 2021, from Launchschool.com website: https://launchschool.com/books/ruby/read/variables
 ‌
