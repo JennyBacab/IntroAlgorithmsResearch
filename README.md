@@ -85,18 +85,6 @@ From the data structure point of view, following are some important categories o
 
 
 
-
-
-
-
-
-
-
-are used to store information to be referenced and manipulated in a computer program. They also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly by the reader and ourselves. It is helpful to think of variables as containers that hold information. Their sole purpose is to label and store data in memory. This data can then be used throughout your program.
-
-
-
-
 What is a variable in computer programming? (2021). Retrieved January 31, 2021, from Launchschool.com website: https://launchschool.com/books/ruby/read/variables
 ‌
 TechTarget Contributor. (2017). operand. Retrieved January 31, 2021, from WhatIs.com website: https://whatis.techtarget.com/definition/operand
