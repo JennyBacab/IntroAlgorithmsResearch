@@ -1,7 +1,6 @@
 # Intro Algorithms Research
 A research about some basic concepts of Algorithms
 
-
 # Welcome to my basic programming glossary!
 By: Noé Lozano Mendoza, Jenny Bacab Saavedra & Steffan Obed Canul Berzunza.
 
@@ -79,10 +78,22 @@ From the data structure point of view, following are some important categories o
     
 -   **Independent**  − An algorithm should have step-by-step directions, which should be independent of any programming code.
 
+## Investagation of the Syllabus
 
+**Control structures of  the algorithm**:
 
+- **Selective structures**:The selective structures use the comparison and/or logical operators to select a course of action for the program.
 
+- **Repetitive structures**: This structure repeats a set of instructions until. 
 
+- **Nested structures**:Nested structure is nothing but the structure within a structure. One structure can be declared inside another structures as we declare structure members inside a structure. The structure variables can be a normal structure variable or a pointer variable to access the data. You can learn the below concepts in this section.
+
+## Types of algorithm representation: 
+
+- **Flow chart**: It is  a diagram that describes a process, sistem or an informatic algorithm.   
+Flowcharts employ rectangles, ovals, diamonds, and numerous other shapes to define the type of step, along with connecting arrows that efficient flow and sequence. They can range from simple, hand-drawn diagrams to comprehensive computer-created diagrams that describe multiple steps and paths. 
+
+- **Pseudocode**: The pseudocode is an informal way to do a program very close to the language we will use in the future. It is like a fake language, but in our language.
 
 
 What is a variable in computer programming? (2021). Retrieved January 31, 2021, from Launchschool.com website: https://launchschool.com/books/ruby/read/variables
