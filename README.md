@@ -97,21 +97,21 @@ Flowcharts employ rectangles, ovals, diamonds, and numerous other shapes to defi
 
 ## Problem solving methods
 
--**Problem analysis:** Is the process of breaking down the problem into its components. The problem should be fully understood.
+- **Problem analysis:** Is the process of breaking down the problem into its components. The problem should be fully understood.
 
- -**Algorithm design:** Design a set of instructions to solve a problem or sub-problem, look for the desired properties and use a finite amount of time and data. Instructions should not be ambiguous. 
+ - **Algorithm design:** Design a set of instructions to solve a problem or sub-problem, look for the desired properties and use a finite amount of time and data. Instructions should not be ambiguous. 
 
--**Coding:** Starting with a pseudocode, translate each line into the code you are currently using. 
+- **Coding:** Starting with a pseudocode, translate each line into the code you are currently using. 
 
--**Compilation and execution:** Call the function and give it some sample sets of data. Use this to see if the code returns the derised results.
+- **Compilation and execution:** Call the function and give it some sample sets of data. Use this to see if the code returns the derised results.
 
--**Check:**  You can write tests to see if the actual output is equal to the desired output. You can also use <console.log> after each variable to check if the values and code are behaving as expected before moving on. 
+- **Check:**  You can write tests to see if the actual output is equal to the desired output. You can also use <code> console.log </code> after each variable to check if the values and code are behaving as expected before moving on. 
 
--**Debugging:** Is the process of identifying and removing errors from computer hardware or software. 
+- **Debugging:** Is the process of identifying and removing errors from computer hardware or software. 
 
--**Maintenance:** Is the constant cleaning and update of the code or data of computer hardware or software.
+- **Maintenance:** Is the constant cleaning and update of the code or data of computer hardware or software.
 
--**Documentation:** Is searching for answers trough papers or forums about a problem or a topic you want to learn about.
+- **Documentation:** Is searching for answers trough papers or forums about a problem or a topic you want to learn about.
 
 
 
