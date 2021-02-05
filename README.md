@@ -111,7 +111,7 @@ Flowcharts employ rectangles, ovals, diamonds, and numerous other shapes to defi
 
 -**Maintenance:** Is the constant cleaning and update of the code or data of computer hardware or software.
 
-- **Documentation:** Is searching for answers trough papers or forums about a problem or a topic you want to learn about.
+-**Documentation:** Is searching for answers trough papers or forums about a problem or a topic you want to learn about.
 
 
 
