@@ -95,6 +95,27 @@ Flowcharts employ rectangles, ovals, diamonds, and numerous other shapes to defi
 
 - **Pseudocode**: The pseudocode is an informal way to do a program very close to the language we will use in the future. It is like a fake language, but in our language.
 
+## Problem solving methods
+
+-**Problem analysis:** Is the process of breaking down the problem into its components. The problem should be fully understood.
+
+ -**Algorithm design:** Design a set of instructions to solve a problem or sub-problem, look for the desired properties and use a finite amount of time and data. Instructions should not be ambiguous. 
+
+-**Coding:** Starting with a pseudocode, translate each line into the code you are currently using. 
+
+-**Compilation and execution:** Call the function and give it some sample sets of data. Use this to see if the code returns the derised results.
+
+-**Check:**  You can write tests to see if the actual output is equal to the desired output. You can also use <console.log> after each variable to check if the values and code are behaving as expected before moving on. 
+
+-**Debugging:** Is the process of identifying and removing errors from computer hardware or software. 
+
+-**Maintenance:** Is the constant cleaning and update of the code or data of computer hardware or software.
+
+- **Documentation:** Is searching for answers trough papers or forums about a problem or a topic you want to learn about.
+
+
+
+
 ## References
 
 -What is a variable in computer programming? (2021). Retrieved January 31, 2021, from Launchschool.com website: https://launchschool.com/books/ruby/read/variables
@@ -115,6 +136,12 @@ Flowcharts employ rectangles, ovals, diamonds, and numerous other shapes to defi
 Gupta, S. (n.d.). Basics of Operators Tutorials & Notes | Basic Programming. HackerEarth. Retrieved January 30, 2021, from https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/tutorial/
 
 -Ren, S. (2019, October 11). Learn about Python 3 data types — numbers and strings. Medium. https://medium.com/@shawnren527/learn-about-python-3-data-types-numbers-and-strings-76c75a917c9b
+
+Chan, V. (2017, August). 10 Steps to Solving a Programming Problem - codeburst. Retrieved February 5, 2021, from Medium website: https://codeburst.io/10-steps-to-solving-a-programming-problem-8a32d1e96d74
+
+imran. (2017, June 5). Retrieved February 5, 2021, from Free Online Computer & I.T Tutorials Step By Step. website: https://www.computertaleem.com/problem-analysis/
+
+. (n.d.). Problem Solving & Algorithm Design. Retrieved from https://www.eecs.yorku.ca/course_archive/2016-17/W/1530/slides/01_Problem_Solving.pdf
 
 
 
