@@ -1,0 +1,30 @@
+INIT
+
+//Give the average score of only the students that passed and count how many got 85 or more.
+//n = number of students, a = counter of students with 85+, s = list of scores of every student, p = counter of students who passed, m = average, x = sum of scores.
+
+n, a = 0, p = 0, m, x = 0
+
+print("Write the number of students: ")
+READ n
+
+s[n]
+
+for (i = 0; i < n; i++);
+print("Write the grades of the student no.: " + i++)
+READ s[i]
+
+for (i = 0; i < n; i++){
+    if s[i] >= 70{
+	p = p++
+	x = x + s[i]}
+	if (s[i] >= 85){
+	a = a++}
+}
+
+m = x / p
+
+print(p + " students passed, " + a + " got  85+ and the average of grades is " + m)
+
+END
+ 

@@ -1,0 +1,67 @@
+INIT 
+
+//Modify n with the program Cheat Engine steps. 
+
+n, x, y, z  
+
+do{
+print("Select a process: ")
+Select a process
+}while(Processworks = True)
+
+READ n
+
+print("Select # bytes: ")
+READ n
+print("Select bytes parameters (1bytes = 1)(2bytes = 2)(4bytes = 3)(8bytes = 4): ")
+READ x
+
+if (n <= 1bytes && x == 1)
+    print("Insert a number")
+    READ y	
+    do{
+    y = y++
+    n = n++
+    Run scanner
+    }while(y != n)
+    print("Introduce the number you want to replace with n: ")
+    READ z 
+    n = z   
+
+elif (n <= 2bytes && x == 2)
+    print("Insert a number")
+    READ y	
+    do{
+    y = y++
+    n = n++
+    Run scanner
+    }while(y != n)
+    print("Introduce the number you want to replace with n: ")
+    READ z 
+    n = z   
+
+elif (n <= 4bytes && x == 3)
+    print("Insert a number")
+    READ y	
+    do{
+    y = y++
+    n = n++
+    Run scanner
+    }while(y != n)
+    print("Introduce the number you want to replace with n: ")
+    READ z 
+    n = z   
+
+elif (n <= 8bytes& && x == 4)
+    print("Insert a number")
+    READ y	
+    do{
+    y = y++
+    n = n++
+    Run scanner
+    }while(y != n)
+    print("Introduce the number you want to replace with n: ")
+    READ z 
+    n = z   
+
+END

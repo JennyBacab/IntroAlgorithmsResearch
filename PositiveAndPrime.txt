@@ -1,0 +1,14 @@
+Inicio 
+Declarar variables Z=2 Y=0
+Leer X 
+Mientras z<=x/2 hacer
+If x/z=0 y=y++ z=z++
+Fin_Si
+Fin del ciclo mientras
+Si Y=0 entonces 
+Escribir X=0 entonces
+Escribir X "es primo"
+sino 
+Escribir X "no es primo"
+Fin_Si
+Fin

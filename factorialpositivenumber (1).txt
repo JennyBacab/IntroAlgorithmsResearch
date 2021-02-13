@@ -1,0 +1,23 @@
+INIT
+
+//print the factorial of a number only if is an even positive number.
+
+n, f = 1, c = 1
+
+READ n
+
+if (n > 1){
+    if (n%2 = 0){
+        do{
+	f = f * c
+	}while (c != n)
+        print("factorial is: " + f)
+    }
+    else
+	print (n + " is an odd")
+}
+    
+else{
+    print(n + " is not positive")}
+
+END	

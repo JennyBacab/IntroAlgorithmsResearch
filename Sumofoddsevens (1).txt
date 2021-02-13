@@ -1,0 +1,21 @@
+INIT
+//Count until n, sum odds and sum evens, and if the sum is greater than 100 print "Wow, you're cool"
+// n = User number, c = Counter, so = Sum of odds, se = Sum of evens
+n, c = 1, so = 0, se = 0
+
+READ n
+
+while (c <= n){
+    if (c%2 = 0){
+        se = se + c}
+    else{
+        so = so + c}      
+    c = c++
+}
+
+print("Sumodds is *so*, sumevens is *se*") 
+
+if (so+se = 100)
+    print("Wow you're cool")
+    
+END
